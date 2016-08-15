@@ -1,1 +1,1 @@
-include ':androidfilechooser'
+include ':android-file-chooser'
