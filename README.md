@@ -3,7 +3,7 @@
 <h2>How to Add the Library</h2>
 <p>This library is availabe in the jcenter repository. Simply add this line of code in your dependencies:</p>
 ```
-compile 'ir.sohreco.androidfilechooser:android-file-chooser:1.0.0'
+compile 'ir.sohreco.androidfilechooser:android-file-chooser:1.0.0@aar'
 ```
 <h2>How to Use</h2>
 If you want the default look for your file/directory chooser you can simply implement FileChooserDialog.ChooserListener in your class and create an instance of FileChooserDialog.Builder and then show the dialog:</p>
